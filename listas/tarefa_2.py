@@ -4,4 +4,4 @@ for i in range (10):
    numeros.append(float(input(f"Digite o {i+1}°numero real:")))
 print("Os numeros inversos são:", end="")
 for numero in numeros[::-1]:
-    print(f" {numero}",end="")5
+    print(f" {numero}",end="")
